@@ -1,0 +1,23 @@
+{
+  "name": "@joachimdalen/youtube-url-to-code",
+  "version": "1.0.0",
+  "description": "Get the video code from a YouTube url",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joachimdalen/youtube-url-to-code.git"
+  },
+  "author": "Joachim Dalen <joachim@dalenapps.no> (https://joachimdalen.no)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joachimdalen/youtube-url-to-code/issues"
+  },
+  "homepage": "https://github.com/joachimdalen/youtube-url-to-code#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
