@@ -1,6 +1,6 @@
 {
   "name": "@joachimdalen/youtube-url-to-code",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Get the video code from a YouTube url",
   "main": "index.js",
   "scripts": {
