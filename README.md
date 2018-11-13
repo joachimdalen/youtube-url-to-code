@@ -3,6 +3,7 @@ YouTube Url to Code
 
 This library takes a YouTube video url and extracts the video code.
 
+[![Build Status](https://travis-ci.org/joachimdalen/youtube-url-to-code.svg?branch=master)](https://travis-ci.org/joachimdalen/youtube-url-to-code)
 ## Installation
 
   `npm install @joachimdalen/youtube-url-to-code`
